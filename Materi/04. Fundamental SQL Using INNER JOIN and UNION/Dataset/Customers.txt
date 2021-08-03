@@ -1,0 +1,4 @@
+CustomerID|CustomerName|ContactName|Address|City|PostalCode|Country
+1|Fransiska Maria|Maria|Jl Sudirman|Jakarta|14450|Indonesia
+2|Ana Helena|Ana Helena|Jl Madura|Surabaya|5021|Indonesia
+3|Lily Subari|Lili|Jl Sumba|Makassar|5023|Indonesia

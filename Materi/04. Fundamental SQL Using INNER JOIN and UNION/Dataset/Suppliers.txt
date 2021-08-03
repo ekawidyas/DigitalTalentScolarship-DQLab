@@ -1,0 +1,4 @@
+SupplierID|ContactName|SupplierName|Address|City|PostalCode|Country
+1|Yulius|Yulius Syrup|Jl Jayakarta|Jakarta|14450|Indonesia
+2|Sherly Ani|Bandung Bakery|Jalan Asia Afrika|Bandung|70117|Indonesia
+3|Regina Tara|Tara Pastry|Jalan Merpati|Semarang|48104|Indonesia
